@@ -7,7 +7,7 @@ The FEM is a general numerical method for solving partial differential equations
 Creating a comprehensive user manual for Finite Element Method (FEM) software requires careful planning and organization.
 Below is a structured outline that you can use as a starting point for creating your manual. Keep in mind that the specifics will depend on the particular FEM software you're documenting.
 
-## Title: User Manual for [FEM Software Name]
+## Manual for [FEM Software Name]
 Table of Contents
 Introduction to [FEM Software Name]
 
