@@ -75,6 +75,10 @@ Convergence Strategies
 
 Remember, the goal is to create a user manual that helps users effectively use the FEM software, from installation to advanced analysis. Adapt the outline and content according to the specific features and capabilities of the software you're documenting.
 
+# RESEARCH PAPER ON FEM 
+<https://www.researchgate.net/publication/287331381_Finite_Element_Method_An_Overview>
+<https://www.journals.elsevier.com/finite-elements-in-analysis-and-design/most-downloaded-articles>
+<https://www.sciencedirect.com/journal/finite-elements-in-analysis-and-design>
 
 
 
