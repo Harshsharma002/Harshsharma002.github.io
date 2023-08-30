@@ -129,13 +129,30 @@ Remember, the goal is to create a user manual that helps users effectively use t
 <https://www.sciencedirect.com/journal/finite-elements-in-analysis-and-design>
 
 # ONLINE COURSES FOR FEM
+
 * [NPTEL](https://archive.nptel.ac.in/courses/112/105/112105308/)
-* Coursera
-* Udemy
-* Class Central
-* ASME
-* DIY guru
-* NAFEMS
+* [Coursera](https://www.coursera.org/courses?query=finite%20element)
+* [Udemy](https://www.udemy.com/topic/finite-element-analysis/)
+* [Class Central](https://www.classcentral.com/course/swayam-basics-of-finite-element-analysis-i-5234)
+* [ASME](https://www.asme.org/learning-development/find-course/introduction-finite-element-analysis/online--oct-16-nov-27th--2023)
+* [DIY guru](https://diyguru.org/p/ansys-fea-fem-online-certification-course/)
+
+
+# SOFTWARE USED BY FEM
+
+* OPEN FOAM
+* ABAQUS
+* Altair HyperWorks
+* Autodesk CFD
+* IVRESS
+* Nastran
+* SAMCEF
+* LS-DYNA
+* FreeCAD
+* STAAD PRO
+* ETABS
+* SAP
+
 
 
 
