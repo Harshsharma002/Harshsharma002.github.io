@@ -3,11 +3,16 @@
 The FEM is a general numerical method for solving partial differential equations in two or three space variables (i.e., some boundary value problems). To solve a problem, the FEM subdivides a large system into smaller, simpler parts called finite elements. This is achieved by a particular space discretization in the space dimensions, which is implemented by the construction of a mesh of the object: the numerical domain for the solution, which has a finite number of points. The finite element method formulation of a boundary value problem finally results in a system of algebraic equations. The method approximates the unknown function over the domain. The simple equations that model these finite elements are then assembled into a larger system of equations that models the entire problem. The FEM then approximates a solution by minimizing an associated error function via the calculus of variations.
 [link](http://www.google.com)
 
+![fem](https://github.com/Harshsharma002/Harshsharma002.github.io/assets/143546376/0ed4b8ad-3eff-43e7-a792-c556b3ecbd1d)
+
+
 # HISTORY OF FEM 
 FEM simulations play their part in the production development process by assisting the user at an early stage to assess whether the essential requirements have been met and to ensure that they are fulfilled.
 Questions regarding what lies at the heart of such simulations and of how the associated mathematics developed and came to be applied may never have crossed the mind of today’s computational engineers and they may never have even heard anything about such matters.\
 The following provides a brief overview of where it all began and of the historical development of the finite element method, giving due regard to Berkeley, which played a significant role in its development.
 Ray W. Clough of the University of California coined the term “finite element method” and, along with John H. Argyris of Imperial College, London, and Stuttgart Technical University, he is considered the inventor of the finite element method.
+
+
 
 # DEVELOPMENT OF FEM
 
